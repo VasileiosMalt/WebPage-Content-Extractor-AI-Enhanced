@@ -6,7 +6,7 @@ This extension allows you to easily extract the main content of any webpage into
 
 ## 📥 Install from Chrome Web Store
 
-[**Download WebPage Content Extractor**](#)
+[**Download WebPage Content Extractor**](https://chromewebstore.google.com/detail/webpage-content-extractor/iblmjahdhifgdilhcdoknbonfdndnljj)
 
 *(Note: Link will be active once published)*
 
